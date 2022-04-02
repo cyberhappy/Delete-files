@@ -5,7 +5,7 @@ The following script will ask for permission from the user before removing the f
 - Just, Clone this repository -
 <pre><code>git clone https://github.com/cyberhappy/Delete-files
 </code></pre>
-- Change to cloned directory and give Hackers\ Tools.sh permission -
+- Change to cloned directory and give Delete\ files.sh permission -
 <pre><code>cd Delete-files/
 chmod +X Delete\ files.sh
 </code></pre>
